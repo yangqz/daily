@@ -3,10 +3,11 @@
 =================================
 
 * MySQL安装
-  * 1.打开
+* 1.打开
+ 
   * ![ccc](image/mysql_install_1.jpg)
 * 2.aggrement
-  * ![ccc](image/mysql_install_2.jpg)
+  * ![ccc](image/mysql_install_2.jpg)
 * 3.type ---custom
   * ![ccc](image/mysql_install_3.jpg)
 * 4.选择 products
